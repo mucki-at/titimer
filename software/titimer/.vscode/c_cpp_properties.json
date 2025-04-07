@@ -75,7 +75,7 @@
                 ]
             },
             "defines": [
-                "PLATFORMIO=60117",
+                "PLATFORMIO=60118",
                 "ARDUINO_AVR_DIGISPARK",
                 "F_CPU=16500000L",
                 "ARDUINO_ARCH_AVR",
